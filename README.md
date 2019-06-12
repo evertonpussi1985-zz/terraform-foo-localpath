@@ -1,5 +1,7 @@
 # terraform-examples
-Templates Terraform IaC
+
+#Templates Terraform IaC
+#Using in local directory that example! :) 
 
 Hello People 
 
