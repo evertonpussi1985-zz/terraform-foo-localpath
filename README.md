@@ -20,9 +20,9 @@ Create new folder in home profile
 
 type in bellow: 
 
-terraform init 
-Terraform plan 
-terraform apply 
-type: yes
+<br>terraform init 
+<br>Terraform plan 
+<br>terraform apply 
+<br>type: yes
 
 It's finish
